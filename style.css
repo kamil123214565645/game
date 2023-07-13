@@ -1,0 +1,25 @@
+  width: 80px;
+
+}
+header {
+    background-color: gray;
+}
+.d {
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 5px;
+    margin:  40px;
+    background-color: gray;
+    color: black;
+}
+.b {
+height: 240px;
+width: 650px;
+}
+.g {
+    text-align: center;
+}
+footer{
+    background-color: cyan;
+}
